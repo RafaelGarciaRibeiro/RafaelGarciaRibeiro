@@ -1,7 +1,7 @@
 ## Olá!, Eu sou Rafael Garcia Ribeiro.
 
 - 🔭 Estou cursando Engenharia de Software na Universidade Cesumar (Unisecumar).
-- 🌱 Experiencia linguem Pascal.
+- 🌱 Experiencia linguagem Object Pascal.
 - 🐍 Estudando PHYTON.
 - 👽 Estudando HTML e CSS.
 - 🤔 Gosto de aprender coisas novas.
