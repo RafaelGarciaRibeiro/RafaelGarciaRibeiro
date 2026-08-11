@@ -20,16 +20,16 @@
 
 </div>
 <picture>
-  <!-- Exibe o tema escuro quando o GitHub do visitante estiver no modo escuro -->
+  <!-- Exibe o tema escuro se o visitante usar tema escuro -->
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RafaelGarciaRibeiro&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=RafaelGarciaRibeiro&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10"
     media="(prefers-color-scheme: dark)"
   />
-  <!-- Exibe o tema padrão/claro quando o GitHub do visitante estiver no modo claro -->
+  <!-- Exibe o tema claro padrão -->
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=RafaelGarciaRibeiro&show_icons=true"
     media="(prefers-color-scheme: light)"
   />
-  <!-- Fallback caso a tag picture falhe -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelGarciaRibeiro&show_icons=true" alt="Estatísticas do GitHub de Rafael" />
+  <!-- Fallback (imagem que você vê acima se as stats caírem de novo) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelGarciaRibeiro&show_icons=true" alt="Minhas Estatísticas do GitHub" />
 </picture>
