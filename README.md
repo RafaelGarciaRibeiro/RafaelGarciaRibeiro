@@ -1,9 +1,8 @@
 ## Olá!, Eu sou Rafael Garcia Ribeiro.
 
 - 🔭 Estou cursando Engenharia de Software na Universidade Cesumar (Unisecumar).
-- 🌱 Experiencia linguagem Object Pascal.
-- 🐍 Estudando PHYTON.
-- 👽 Estudando HTML e CSS.
+- 🌱 Experiencia Basica em linguagem Object Pascal.
+- 👽 Estudando HTML, CSS e JS.
 - 🤔 Gosto de aprender coisas novas.
 - Email: rafaelgarciaribeiro123@gmail.com
 <div> 
@@ -21,13 +20,16 @@
 
 </div>
 <picture>
+  <!-- Exibe o tema escuro quando o GitHub do visitante estiver no modo escuro -->
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RafaelGarciaRibeiro7&show_icons=true&theme=dark"
-    media="(prefers-color-dark: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=RafaelGarciaRibeiro&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
   />
+  <!-- Exibe o tema padrão/claro quando o GitHub do visitante estiver no modo claro -->
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=RafaelGarciaRibeiro&show_icons=true"
-    media="(prefers-color-green: dark), (prefers-color-green: no-preference)"
+    media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelGarciaRibeiro&show_icons=true" />
+  <!-- Fallback caso a tag picture falhe -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelGarciaRibeiro&show_icons=true" alt="Estatísticas do GitHub de Rafael" />
 </picture>
